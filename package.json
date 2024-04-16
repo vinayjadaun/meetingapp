@@ -1,6 +1,7 @@
 {
-  "homepage": "https://vinayjadaun.github.io/GroupMeeting_APP",
+ 
   "name": "chat_app",
+  "homepage": "https://vinayjadaun.github.io/meetingapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
